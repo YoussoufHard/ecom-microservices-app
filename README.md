@@ -246,6 +246,7 @@ Le schéma de la base de données sera disponible dans le dossier `docs/`.
 - ![Config Customer Default](captures/8-configCustomerdefault.png)
 - ![Config Test 3 Actuator Hot Config](captures/8-confitest3actuatorhotconfig.png)
 - ![Repo GitHub Config](captures/8-repo-gethubconfig.png)
+- ![Full Bill Service GET](captures/7-fullbillserviceget1.png)
 
 ## 🔧 Configuration des Services
 
