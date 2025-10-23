@@ -271,6 +271,7 @@ Chaque service peut être configuré via les fichiers dans `congig-repo/` :
 Ce projet est sous licence MIT .
 ## 📞 Contact
 Tangara Youssouf - [ytangara2003@gmail.com](mailto:ytangara2003@gmail.com)
+
 Lien du projet : [https://github.com/YoussoufHard/ecom-microservices-app](https://github.com/YoussoufHard/ecom-microservices-app)
 
 ---
